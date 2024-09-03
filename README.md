@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @UntitedPaddy1
 - 👀 I’m interested in Rust 🦀
 - 🌱 I’m currently learning Rust 🦀
+- ⚡ Fun fact: 
 - 💞️ 
 - 📫 
 - 😄 
-- ⚡ Fun fact: 
+
 
 <!---
 UntitedPaddy1/UntitedPaddy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
